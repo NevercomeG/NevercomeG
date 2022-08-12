@@ -80,6 +80,8 @@
 
 ### :fire: My Stats :
 
+<div align=center>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nevercomeg&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![GitHub followers](https://img.shields.io/github/followers/nevercomeG?style=for-the-badge)
@@ -94,3 +96,5 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=github_dark" />
 </a>
+
+</div>
