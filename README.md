@@ -91,7 +91,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nevercomeg&theme=github_dark)](https://github.com/nevercomeg/github-readme-stats)
 
 <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/NevercomeG/Alura-Encriptador)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NevercomeG&repo=Alura-Encriptadors&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NevercomeG&repo=Alura-Encriptador-&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=github_dark" />
