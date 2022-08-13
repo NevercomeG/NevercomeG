@@ -89,11 +89,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevercomeG&layout=compact&theme=github_dark&hide=Powershell,batchfile))](https://github.com/nevercomeG/github-readme-stats)
 
 
-<a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/NevercomeG/Alura-Encriptador)">
+<a href="https://github.com/NevercomeG/Alura-Encryptor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NevercomeG&repo=Alura-Encriptador-&theme=github_dark" />
 </a>
 
-<a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/NevercomeG/Alura-Encriptador)">
+<a href="https://github.com/NevercomeG/loan-management-system">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NevercomeG&repo=loan-management-system&theme=github_dark" />
 </a>
 
