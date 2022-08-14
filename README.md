@@ -3,7 +3,7 @@
   
 
 <img src="https://cdn3.iconfinder.com/data/icons/office-275/400/Programmer-2-512.png" width="200"/>
-  
+
   
 
  </div> 
@@ -37,7 +37,8 @@
 </h1>
 </div>
 <div id="counter" align="center">
-  <img src="https://cdn.shopify.com/s/files/1/0306/6419/6141/articles/coding_languages_1000x.png?v=1619126283" width="500"/>
+  <img src="https://www.dlapiper.com/~/media/images/news/2018/programming_code_technology_computerwebsite_banner_432008923.jpg?h=257&la=es&w=759&hash=38BC28B40211EFCBFAEC1BE3711DCB8BD0500121"/>
+  
   </div>
 
 ---
