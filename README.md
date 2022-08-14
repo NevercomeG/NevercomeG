@@ -10,11 +10,10 @@
  
  <div id="text" align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5040&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+developer;Backend+developer;Full+Stack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5040&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Frontend+developer;Backend+developer;Full+Stack+developer)](https://git.io/typing-svg)
   
  </div> 
- 
- <br>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/luis-solano-a20683208/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
