@@ -44,7 +44,7 @@
 ---
 ### 👨🏻‍💻 About Me
 
-### I am a Full Stack Developer from Dominican Republic :🇩🇴:
+### I am a Full Stack Developer from Dominican Republic 🇩🇴
 
 🎓 I´m a Chemical Engeneer and self-taught Full Stack Software Developer.
 
