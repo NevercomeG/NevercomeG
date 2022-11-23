@@ -55,6 +55,26 @@
 🤔 Exploring and learning new technologies and something more...
 
 ---
+<div align="center" height="80px">
+
+</div>
+
+<div align="center">
+  
+### 🛠 Alura Challenges
+  
+  </div>
+  <div display="grid" align="center">
+      <div display="flex" flex-direction="row">
+ <img src="https://user-images.githubusercontent.com/22091437/203646028-6a302bab-891b-4b8c-bd84-317e39c0c988.png" title="NodeJS" alt="NodeJS" width="100" height="100"/>
+### 🛠 Alura Challenges
+        </div>
+          <div display="flex" flex-direction="row">
+ <img src="https://user-images.githubusercontent.com/22091437/203646551-c8a29b58-717f-4a95-8104-7395976fa37a.png" title="NodeJS" alt="NodeJS" width="100" height="100"/>
+                    </div>
+</div>
+
+---
 <div align="center">
   
   
