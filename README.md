@@ -36,8 +36,8 @@
 </h1>
 </div>
 <div id="counter" align="center">
-  <img src="https://www.dlapiper.com/~/media/images/news/2018/programming_code_technology_computerwebsite_banner_432008923.jpg?h=257&la=es&w=759&hash=38BC28B40211EFCBFAEC1BE3711DCB8BD0500121"/>
-  
+
+# NevercomeX
   </div>
 
 ---
