@@ -90,19 +90,15 @@
 
 <div align=center>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nevercomeg&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nevercomex&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![GitHub followers](https://img.shields.io/github/followers/nevercomeG?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/nevercomeX?style=for-the-badge)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevercomeG&layout=compact&theme=github_dark&hide=Powershell,batchfile))](https://github.com/nevercomeG/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevercomeX&layout=compact&theme=github_dark&hide=Powershell,batchfile))](https://github.com/nevercomeG/github-readme-stats)
 
-
-<a href="https://github.com/NevercomeG/Alura-Encryptor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NevercomeG&repo=Alura-Encriptador-&theme=github_dark" />
+<a href="https://github.com/NevercomeX/loan-management-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NevercomeX&repo=loan-management-system&theme=github_dark" />
 </a>
-
-<a href="https://github.com/NevercomeG/loan-management-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NevercomeG&repo=loan-management-system&theme=github_dark" />
-</a>
+  
 
 </div>
