@@ -1,16 +1,15 @@
 <div id="header" align="center" height="6px" width="5px">
   
+
+
+
+<img src="https://user-images.githubusercontent.com/22091437/208406043-7619dbbd-dc4c-44e7-854e-86d47dc6c7c3.png" width="350" />
   
-
-<img src="https://cdn3.iconfinder.com/data/icons/office-275/400/Programmer-2-512.png" width="200"/>
-
-  
-
  </div> 
  
  <div id="text" align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=FFF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
   
  </div> 
 
