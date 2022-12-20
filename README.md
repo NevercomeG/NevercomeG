@@ -27,7 +27,7 @@
 </div>
 
 <div id="counter" align="center">
-<img src="https://komarev.com/ghpvc/?username=nevercomeg&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=nevercomex&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id="counter" align="center">
