@@ -10,7 +10,7 @@
  
  <div id="text" align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=FFF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=FFF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Developer;Full+Stack+Developer;DevOps)](https://git.io/typing-svg)
   
  </div> 
 
@@ -27,7 +27,7 @@
 </div>
 
 <div id="counter" align="center">
-<img src="https://komarev.com/ghpvc/?username=nevercomex&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=nevercomeg&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id="counter" align="center">
