@@ -48,7 +48,7 @@
 
 🎓 I´m a Chemical Engeneer and self-taught Full Stack Software Developer.
 
-💼 Learning about cloud computing, genetic algorithms, software testing.
+💼 Learning about cloud computing and DevOps .
 
 ✍️ Pursuing my dreams and new goals.
 
