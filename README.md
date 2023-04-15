@@ -96,7 +96,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/nevercomeX?style=for-the-badge)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevercomeX&layout=compact&theme=github_dark&hide=Powershell,batchfile)](https://github.com/nevercomeG/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevercomeX&layout=compact&theme=github_dark&hide=Powershell,batchfile)](https://github.com/nevercomeX/github-readme-stats)
 
 <a href="https://github.com/NevercomeX/loan-management-system">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NevercomeX&repo=loan-management-system&theme=github_dark" />
